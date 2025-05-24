@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mariodiaz-sv&layout=compact&theme=radical)](https://github.com/mariodiaz-sv)
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariodiaz)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariodiaz)-->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmdiazl@yahoo.es)
 
 <!--[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-sitio-web.com)
